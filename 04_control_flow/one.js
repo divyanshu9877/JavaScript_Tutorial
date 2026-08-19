@@ -31,7 +31,7 @@ const temprature = 41
 
 // const balance = 1000
 
-// if (balance > 500) console.log("test"); // not write like this
+// if (balance > 500) console.log("test"),console.log("test2"); // not write like this
 
 // if (balance < 500){
 //     console.log("less than 500");
